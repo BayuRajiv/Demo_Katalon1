@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 02 Add User Failed with username registered</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>52fbfc40-e945-48e0-846b-04742b113f37</testCaseGuid>
+</TestCaseEntity>

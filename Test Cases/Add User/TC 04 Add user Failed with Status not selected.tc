@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 04 Add user Failed with Status not selected</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>17c0b8d0-b3a8-40c5-881c-484b5a2cd1c3</testCaseGuid>
+</TestCaseEntity>

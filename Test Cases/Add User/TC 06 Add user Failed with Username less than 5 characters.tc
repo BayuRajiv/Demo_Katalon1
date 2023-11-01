@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 06 Add user Failed with Username less than 5 characters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6d21cc2-72dc-4ddb-bc94-6cae7940bff3</testCaseGuid>
+</TestCaseEntity>
